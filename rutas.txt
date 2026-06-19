@@ -1,0 +1,3 @@
+Ruta Cerro Renca;80000;Manuel Hernandez;21212121-1;Excursiones
+Tour Gastronomico;30000;Jose Jose;12345678-9;Rutas Gastronomicas
+Ruta Valparaiso;80000;Nicolas Hernandez;33332121-1; Rutas Cortas

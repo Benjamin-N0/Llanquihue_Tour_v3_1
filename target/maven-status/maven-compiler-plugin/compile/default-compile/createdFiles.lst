@@ -1,0 +1,6 @@
+cl\llanquihuetour\model\Guia.class
+cl\llanquihuetour\app\Main.class
+cl\llanquihuetour\service\LlanquihueService.class
+cl\llanquihuetour\util\LectorArchivo.class
+cl\llanquihuetour\model\Persona.class
+cl\llanquihuetour\model\RutaTuristica.class
